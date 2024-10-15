@@ -4,3 +4,4 @@ This is a repository for several experimental numeric calculation related to cos
 
 Currently, the repository consists of:
 1. Efforts on reproducing the plot of effective degree of freedom associated with entropy in early universe, inspired by the work in https://arxiv.org/pdf/1609.04979.
+2. Efforts on reproducing the plot of energy density evolution due to out-of-equilibrium decay of a massive particle, inspired by the work in "The Early Universe", written by Edward Kolb and Michael Turner.
